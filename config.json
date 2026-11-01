@@ -19,15 +19,15 @@
     ]
   },
   "adminBot": [
-    "100071880593545",
+    "61571400908945",
     ""
   ],
   "DEV": [
-    "100071880593545",
+    "61571400908945",
     ""
   ],
   "GOD": [
-    "100071880593545",
+    "61571400908945",
     ""
   ],
   "whiteListMode": {
@@ -38,8 +38,8 @@
   "nickNameBot": "Goat-Bot-V2",
   "prefix": "/",
   "autoSetNickname": true,
-  "authorFB": "https://www.facebook.com/profile.php?id=100071880593545",
-  "authorName": "AminulSardar",
+  "authorFB": "https://www.facebook.com/profile.php?id61571400908945",
+  "authorName": "Hridoy",
   "authorEmail": "secret",
   "database": {
     "type": "sqlite",
@@ -51,7 +51,7 @@
   "timeZone": "Asia/Dhaka",
   "credentials": {
     "gmailAccount": {
-      "email": "batwire187@gmail.com",
+      "email": "@gmail.com",
       "clientId": "8864284320-3v8dd1uqtijifcmmg51t1j2po151si61.apps.googleusercontent.com",
       "clientSecret": "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",
       "refreshToken": "1//045OTpkSYZIviCgYIARAAGAQSNwF-L9Irm2r6F8_a-TDFfIbxTi-DBpTOmkZzOxqDqs9BQ8j7IGhBwJWZv-8Gfgtb-yVVr0BDiTA",
